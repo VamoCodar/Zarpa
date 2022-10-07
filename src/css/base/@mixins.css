@@ -1,0 +1,6 @@
+@layer base {
+
+	@define-mixin exemple {
+		color: red;
+	}
+}

@@ -1,0 +1,11 @@
+@layer base {
+	:root {
+		-white: 255 255 255;
+		--primary-10: 249, 233, 236;
+		--primary-30: 232, 79, 104;
+		--primary-pure: 193, 31, 57;
+	
+	}
+
+	
+}

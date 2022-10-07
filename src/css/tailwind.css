@@ -1,0 +1,12 @@
+@import "tailwindcss/base";
+@import "./base/@colors.css";
+@import "./base/@mixins.css";
+
+/* /////////////////////////////////////////// */
+/* 	COMPONENTS */
+@import "tailwindcss/components";
+
+
+/* /////////////////////////////////////////// */
+/* 	UTILITIES */
+@import "tailwindcss/utilities";
